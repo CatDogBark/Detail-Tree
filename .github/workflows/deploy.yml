@@ -22,6 +22,8 @@ jobs:
         run: yarn
       - name: Build
         run: yarn build
+      - name: List build directory contents
+        run: ls -la ./dist
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
