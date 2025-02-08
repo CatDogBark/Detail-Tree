@@ -29,6 +29,6 @@
     "typescript": "~5.7.2",
     "typescript-eslint": "^8.22.0",
     "vite": "^6.1.0",
-    "@tailwindcss/postcss": "^1.0.0"
+    "@tailwindcss/postcss": "^4.0.4"
   }
 }
